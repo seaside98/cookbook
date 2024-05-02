@@ -6,10 +6,15 @@ Servings: 6
 
 This recipe is super filling and delicious, while still being very healthy. I've chosen to remove all the spice, you could add some jalepeno or birdseye chili to the paste.
 
+## Recipe
+
+### Rice
+
 * 0.75c white rice per 2 servings
 
 Cook the rice in a rice cooker.
 
+### Curry Paste
 * 3g or 1.25tsp cumin
 * 3g coriander
 * 1g white pepper
@@ -29,7 +34,10 @@ Grind to a powder in a mortal and pestle.
 
 Add ingredients to a blender and pulse into as fine a paste as you can, using a tamper to push everything into the blades.
 
-Heat vegetable oil in a dutch oven. Add curry paste. Stir and cook for 90 seconds.
+
+### Curry
+
+Heat vegetable oil in a dutch oven. Add the curry paste. Stir and cook for 90 seconds.
 
 * 2 13.5oz cans full fat coconut milk
 
@@ -52,7 +60,14 @@ Bring to a simmer. Cover and cook for 3 minutes or until veggies are 60-70% done
 
 Stir together, then cover and reduce heat to low to poach for 3 minutes. Adjust seasoning to taste.
 
+### Serving
+
 Serve over rice. Optionally top with:
 
 * Lime juice
 * Thai basil
+
+
+## Reference
+
+[Brian Lagerstrom on youtube](https://www.youtube.com/watch?v=M1Nt8BV_lvc)
