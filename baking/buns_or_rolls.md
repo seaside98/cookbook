@@ -25,7 +25,7 @@ Cook in a small pot over medium heat until thickened, then remove from heat and 
 * 15% egg (1 is 50g)
 * ~4% egg yolk (1 is 14g)
 * Tangzhong mixture
-* 12% unsalted butter, softened (1 tbsp is 14g)
+* 12% unsalted butter, softened (1T is 14g)
 
 Combine milk and yeast and allow yeast to bloom. Knead dough until smooth, adding the butter a bit at a time once everything else is combined. Proof until doubled. Divide and shape by pinching the dough together and then rolling into a ball. Proof about 30 minutes, not quite allowing dough to double.
 
@@ -119,7 +119,7 @@ _Not sure whether to include milk in this or not, water could be used instead._
 Use 40g flour per pie.
 
 #### Filling
-* 1 Tbsp butter
+* 1T butter
 * 1 yellow onion
 * 1lb ground beef
 * 1 cup cooked rice

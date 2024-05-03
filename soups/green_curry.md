@@ -43,8 +43,8 @@ Heat vegetable oil in a dutch oven. Add the curry paste. Stir and cook for 2-3 m
 
 Bring to a simmer and cook for 3 minutes. Transfer the curry to a blender and blend on high until smooth. Return the curry to the pot. Add:
 
-* 1.5 Tbsp brown sugar 
-* 1.75 Tbsp fish sauce
+* 1.5T brown sugar 
+* 1.75T fish sauce
 
 The following vegetables are all optional, choose a few of them to use or try something else!
 
