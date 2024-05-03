@@ -37,28 +37,27 @@ Add ingredients to a blender and pulse into as fine a paste as you can, using a 
 
 ### Curry
 
-Heat vegetable oil in a dutch oven. Add the curry paste. Stir and cook for 90 seconds.
+Heat vegetable oil in a dutch oven. Add the curry paste. Stir and cook for 2-3 minutes, or until most of the liquid has evaporated. Add:
 
 * 2 13.5oz cans full fat coconut milk
 
-Bring to a simmer and cook for 3 minutes. Transfer all the contents of the pot to a blender and blend on high until smooth. Return the curry to the pot.
+Bring to a simmer and cook for 3 minutes. Transfer the curry to a blender and blend on high until smooth. Return the curry to the pot. Add:
 
 * 1.5 Tbsp brown sugar 
 * 1.75 Tbsp fish sauce
 
-The following vegetables are all optional, choose a few of them to use or try some others!
+The following vegetables are all optional, choose a few of them to use or try something else!
 
 * 2c green beans, trimmed and cut into 1in pieces
 * 1 Japanese or Chinese eggplant, half of the skin removed and cubed 
-* 2 zucchini, halved and sliced 0.25in thick
-* 8oz mushrooms, preferably pan fried
+* 2 zucchini, halved lengthwise and sliced 0.25in thick
+* 8oz mushrooms, preferably pan sautéed 
 
+Add vegetables and bring to a simmer. Cover and cook for 3 minutes or until veggies are 60-70% done.
 
-Bring to a simmer. Cover and cook for 3 minutes or until veggies are 60-70% done.
+* 1lb tilapia or other white fish, cubed and seasoned with salt
 
-* 1lb tilapia, cubed and seasoned with salt
-
-Stir together, then cover and reduce heat to low to poach for 3 minutes. Adjust seasoning to taste.
+Add fish, stir together, then cover and reduce heat to low to poach for 3 minutes. Adjust seasoning to taste.
 
 ### Serving
 
