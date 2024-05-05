@@ -36,7 +36,7 @@ Let most of the wine evaporate. Add:
 * 2lb russet potatoes, peeled and diced into 0.5in cubes
 * Strong pinch of salt
 
-Lower heat to medium-low, cover, and simmer for 10-12 minutes until potatoes are tender but have a bite, careful to keep the temperature at or under boiling (212f). Ladle a third of the soup into a blender and blend until creamy. Mix back into the pot. Add:
+Lower heat to medium-low, cover, and simmer for 10-12 minutes until potatoes are tender but have a bite, careful to keep the temperature at a simmer. Ladle a third of the soup into a blender and blend until creamy. Mix back into the pot. Add:
 
 * Reserved clam
 * 1.5T fish sauce

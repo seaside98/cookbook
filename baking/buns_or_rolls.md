@@ -17,7 +17,7 @@ This is my favorite dough! It is better than every other type of enriched dough,
 Cook in a small pot over medium heat until thickened, then remove from heat and allow to cool slightly.
 
 ### Dough
-* 35% whole milk, warmed to 100f
+* 35% whole milk, warmed to 100F
 * 2% instant yeast 
 * 94% Bread flour
 * 10% granulated sugar (17% for rolls)
