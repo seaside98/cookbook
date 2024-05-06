@@ -16,7 +16,7 @@ Round the dough into a ball, place it in a bowl, cover, and proof for 2 hours.
 
 After 2 hours, divide the dough into two equal pieces. Perform a preshape by folding in the sides and rounding off the dough into a ball. Cover the dough balls and let them rest for 20 minutes to relax the gluten.
 
-Press the dough ball flat with a pizza pan or large pot then roll out each dough ball into a 12” (30cm) round.
+Flour the work surface. Flip a ball side up and press flat with a pizza pan or large pot until 6in across. Roll out each dough ball into a 12in round.
 
 Use a pizza docking tool or a fork to pierce the dough to prevent large bubbles from forming during baking. Don't pierce all the way through the dough.
 
