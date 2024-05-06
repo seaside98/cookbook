@@ -1,21 +1,28 @@
-Pizza Dough Ingredients
-* 360g (3c) bread flour
-* 40g (3T) cold butter
-* 180g (3/4c) ice cold water, divided
-* 5g (1 1/2t) yeast
-* 7g (1 1/2t) salt
+# Thin Crsut Pizza (Chicago Style)
 
-Pizza Dough Instructions:
-1. In a food processor, combine the bread flour and cold butter. Pulse until the butter is broken down into small, gravel-like bits.
-2. Dissolve the yeast in 90g (1/4c + 2T) of ice cold water and the salt in another 90g (1/4c + 2T) of ice cold water.
-3. Add the yeast water and salt water to the flour-butter mixture in the food processor. Pulse for 20-30 seconds until the dough is evenly hydrated. Be careful not to overmix.
-4. Transfer the dough onto a work surface and knead for 2 minutes until it forms a homogeneous ball.
-5. Round the dough into a ball, place it in a bowl, cover, and ferment for 2 hours.
-6. After 2 hours, divide the dough into two equal pieces. Perform a preshape by folding in the sides and rounding off the dough into a ball. Cover the dough balls and let them rest for 20 minutes to relax the gluten.
-7. Press the dough ball flat with a pizza pan or large pot then roll out each dough ball into a 12” (30cm) round
-8. Use a pizza docking tool or a fork to pierce the dough to prevent large bubbles from forming during baking.
-9. Spray 2 pieces of parchment paper with olive oil pan spray and a generous amount of fine grind cornmeal and place rolled out pizza doughs on top. 
-10. Place both doughs stacked on a sheet tray and refrigerate, uncovered, for 4-24 hours to cold ferment and develop a skin for a crispier crust. Preferably 24 hours.
+## Dough
+* 360g bread flour
+* 40g cold butter
+
+In the bowl of a stand mixer, blend butter and flour with a pastry blender until the butter is broken down into small, gravel-like bits. Set the bowl in the freezer.
+
+* 180g ice cold water, divided
+* 5g yeast
+* 7g salt
+
+Dissolve the yeast in half of the water and the salt the other half. Add everything to the flour bowl. Beat with the paddle attachment until just combined. Knead by hand for 2 minutes until the dough is smooth and passes the tug test.
+
+Round the dough into a ball, place it in a bowl, cover, and proof for 2 hours.
+
+After 2 hours, divide the dough into two equal pieces. Perform a preshape by folding in the sides and rounding off the dough into a ball. Cover the dough balls and let them rest for 20 minutes to relax the gluten.
+
+Press the dough ball flat with a pizza pan or large pot then roll out each dough ball into a 12” (30cm) round.
+
+Use a pizza docking tool or a fork to pierce the dough to prevent large bubbles from forming during baking. Don't pierce all the way through the dough.
+
+Spray 2 pieces of parchment paper with pan spray and a generous amount of fine grind cornmeal and place rolled out pizza doughs on top. 
+
+Place both doughs stacked on a sheet tray and refrigerate, uncovered, for 4-24 hours to cold ferment and develop a skin for a crispier crust. Preferably 24 hours.
 
 Pizza Sauce Ingredients
 * 1 28oz/800g can crushed tomatoes
