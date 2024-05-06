@@ -1,4 +1,4 @@
-# Thin Crsut Pizza (Chicago Style)
+# Thin Crust Pizza (Chicago Style)
 
 ## Dough
 * 360g bread flour
