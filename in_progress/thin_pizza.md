@@ -18,11 +18,11 @@ After 2 hours, divide the dough into two equal pieces. Perform a preshape by fol
 
 Flour the work surface. Flip a ball side up and press flat with a pizza pan or large pot until 6in across. Roll out each dough ball into a 12in round.
 
-Use a pizza docking tool or a fork to pierce the dough to prevent large bubbles from forming during baking. Don't pierce all the way through the dough.
+Use a fork to pierce the dough to prevent large bubbles from forming during baking. Don't pierce all the way through the dough.
 
 Spray 2 pieces of parchment paper with pan spray and a generous amount of fine grind cornmeal and place rolled out pizza doughs on top. 
 
-Place both doughs stacked on a sheet tray and refrigerate, uncovered, for 4-24 hours to cold ferment and develop a skin for a crispier crust. Preferably 24 hours.
+Place both doughs stacked on a sheet tray and refrigerate, uncovered, for 24 hours to cold ferment and develop a skin for a crispier crust.
 
 Pizza Sauce Ingredients
 * 1 28oz/800g can crushed tomatoes
