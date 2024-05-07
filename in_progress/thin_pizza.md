@@ -24,21 +24,17 @@ Spray 2 pieces of parchment paper with pan spray and a generous amount of fine g
 
 Place both doughs stacked on a sheet tray and refrigerate, uncovered, for 24 hours to cold ferment and develop a skin for a crispier crust.
 
-Pizza Sauce Ingredients
-* 1 28oz/800g can crushed tomatoes
-* 100g (1/3 cup) tomato paste
-* 12g (2 1/2 tsp) salt
-* 20g (5 tsp) granulated sugar
-* 1g (1/2 tsp) chili flakes
-* 2g (2 tsp) dried basil
-* 2g (1 tsp) dried oregano
-* 2g (1/2 tsp) onion powder
-* 2g (1/2 tsp) garlic powder
+## Sauce
+* 220g canned whole tomatoes and juice
+* 30g tomato paste
+* 5g granulated sugar
+* Pinch chili flakes
+* 1/2 tsp dried oregano
+* <1/4 tsp onion powder
+* <1/4 tsp garlic powder
+* Salt to taste
 
-Pizza Sauce Instructions:
-1. Scoop out half a cup of crushed tomatoes from the can.
-2. Add the tomato paste, salt, sugar, chili flakes, basil, oregano, onion powder, and garlic powder to the remaining crushed tomatoes.
-3. Blend the sauce with immersion blender until the dried herbs are broken down and everything is well combined.
+Blend in a blender on low until somewhat smooth. Season to taste with salt.
 
 Italian Sausage Ingredients
 * 450g (1 lb) 80/20 ground pork
