@@ -19,7 +19,7 @@ Cook in a small pot over medium heat until thickened, then remove from heat and 
 ### Dough
 * 35% whole milk, warmed to 100F
 * 2% instant yeast 
-* 94% Bread flour
+* 94% bread flour
 * 10% granulated sugar (17% for rolls)
 * 2% fine sea salt 
 * 15% egg (1 is 50g)
