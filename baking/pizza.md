@@ -30,7 +30,7 @@ _Try substituting with 30% sourdough starter_
 * 2% salt
 * Poolish
 
-Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. Round the dough into a ball and put into a lightly olive oiled bowl and let rise for 45 minutes (maybe 30 in the summer). Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
+Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. Round the dough into a ball and put into a lightly olive oiled bowl and let rise for 45 minutes (maybe 30 in the summer). Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours. Let the dough come up to room temp while the oven preheats.
 
 
 ## Sauce
