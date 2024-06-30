@@ -9,8 +9,8 @@ For the all purpose flour, use 11.7% protein or similar.
 
 ### New York Style
 
-180g flour per 12 inch pizza
-90g flour per 8.5 inch pizza (personal)
+* 180g flour per 12 inch pizza
+* 90g flour per 8.5 inch pizza (personal)
 
 #### Poolish
 * 15% water
