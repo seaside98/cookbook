@@ -19,7 +19,7 @@ For the all purpose flour, use 11.7% protein or similar.
 
 Let rest at room temperature for about 24 hours. 
 
-Can substitute with 30% sourdough starter. Reduce yeast to 0.9%.
+Can substitute with 30% sourdough starter. Reduce yeast to 0.9% is starter is active.
 
 #### Dough
 * 48% water
