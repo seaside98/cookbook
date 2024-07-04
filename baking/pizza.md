@@ -148,7 +148,7 @@ After baking top with:
 * Plenty of additional grated parmigiano 
 
 ## References
-[Brian Lagerstrom New York Style Pizza](https://www.youtube.com/watch?v=t4t3bqb_91E)
-[Brian Lagerstrom White Pizza](https://www.youtube.com/watch?v=QLX6wCDWrIc)
-[Joshua Weissman Sourdough Pizza](https://www.youtube.com/watch?v=yMfOyJeIz8c)
-[Brian Lagerstrom Delivery Style Pizza](https://www.youtube.com/watch?v=OOeCLN9VHGY)
+* [Brian Lagerstrom New York Style Pizza](https://www.youtube.com/watch?v=t4t3bqb_91E)
+* [Brian Lagerstrom White Pizza](https://www.youtube.com/watch?v=QLX6wCDWrIc)
+* [Joshua Weissman Sourdough Pizza](https://www.youtube.com/watch?v=yMfOyJeIz8c)
+* [Brian Lagerstrom Delivery Style Pizza](https://www.youtube.com/watch?v=OOeCLN9VHGY)
