@@ -20,6 +20,8 @@ Let rest at room temperature for about 24 hours.
 
 Can substitute with 14% sourdough starter. Increase water to 56% and flour to 93%.
 
+If omitting altogether, increase the water to 63% and flour to 100%. Brush the finished crust with garlic oil or it will be bland.
+
 #### Dough
 * 48% water
 * 1.4% yeast
