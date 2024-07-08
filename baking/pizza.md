@@ -71,15 +71,15 @@ When topping, spread the cheese from edge to edge. Bake until the top looks good
 Gently sizzle garlic. Add: 
 
 * 28oz can whole san marzano tomatoes
-* 1g chile flake
+* Pinch of red pepper flakes
 * 1g dried oregano 
 * 5g sugar
 
 Crush with a potato masher until well broken down or blitz a few times in the can with an immersion blender. Bring to a simmer and reduce by half, around 30 minutes.
 
-* Salt to taste (3g)
+* Salt to taste
 
-Makes a little more than you need for two 12 inch pizzas. Use about 200g per pizza.
+Makes a little more than you need for two 12 inch pizzas if using a lot of sauce.
 
 ### Sweeter Red Sauce
 * 1 can (150g) tomato paste
@@ -129,7 +129,7 @@ After baking top with:
 * 120g full fat mozzarella
 * Thinly sliced and sauteed mushrooms
 * Pickled red onions 
-* 6 chunks of brie
+* 10 chunks of brie
 * Salt
 
 ### Kale White Pizza
@@ -148,6 +148,29 @@ Mix together in a squeeze bottle:
 After baking top with:
 * A very generous amount of the lemon oil
 * Plenty of additional grated parmigiano 
+
+### The Bees Knees Pizza
+* Light coating of basic red sauce
+* 120g full fat mozzarella (put some on top of sopressata)
+* 10 one inch chunks of fresh mozzarella
+* Sliced hot sopressata, roughly chopped
+* Salt
+
+After baking top with:
+* Grated parmigiano 
+* Lots of thinly sliced basil
+* Drizzle of honey
+
+### Goat and Fig White Pizza
+* 120g full fat mozzarella
+* Chunks of goat cheese
+* A few chunks of fresh mozzarella
+* Medium diced bacon
+* Roughly chopped dried figs
+
+After baking top with:
+* Thinly sliced basil
+* Drizzle of balsamic glaze or 25 star balsamic
 
 ## References
 * [Brian Lagerstrom New York Style Pizza](https://www.youtube.com/watch?v=t4t3bqb_91E)
