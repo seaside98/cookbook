@@ -151,7 +151,7 @@ After baking top with:
 
 ### The Bees Knees Pizza
 * Light coating of basic red sauce
-* 120g full fat mozzarella (put some on top of sopressata)
+* 100g full fat mozzarella (put some on top of sopressata)
 * 10 one inch chunks of fresh mozzarella
 * Sliced hot sopressata, roughly chopped
 * Salt
@@ -163,10 +163,10 @@ After baking top with:
 
 ### Goat and Fig White Pizza
 * 120g full fat mozzarella
-* Chunks of goat cheese
+* Crumbled goat cheese
 * A few chunks of fresh mozzarella
-* Medium diced bacon
 * Roughly chopped dried figs
+* Pickled golden raisins?
 
 After baking top with:
 * Thinly sliced basil
