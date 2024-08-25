@@ -13,7 +13,7 @@ For the all purpose flour, use 11.7% protein or similar. Can also use 00 flour.
 
 #### Poolish
 * 15% water
-* pinch of yeast
+* 0.04% yeast
 * 15% all purpose flour
 
 Let rest at room temperature for about 24 hours. 
@@ -24,12 +24,12 @@ If omitting altogether, increase the water to 63% and flour to 100%. Brush the f
 
 #### Dough
 * 48% water
-* 1.4% yeast
 * 3% sugar
 * 3% olive oil
 * 85% all purpose flour
 * 2% salt
 * Poolish
+* 2% diastatic malt powder (optional)
 
 Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. It should be somewhat developed but definitely not a full bread strength. Round the dough into a ball and put into a lightly olive oiled bowl and let rise for 45 minutes (maybe 30 in the summer). Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
 
