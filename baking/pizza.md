@@ -24,7 +24,7 @@ If omitting altogether, increase the water to 63% and flour to 100%. Brush the f
 
 #### Dough
 * 48% water
-* 1% yeast
+* 0.5% yeast for 24 hours, 0.25% yeast for 48 hours
 * 3% sugar
 * 3% olive oil
 * 85% all purpose flour
