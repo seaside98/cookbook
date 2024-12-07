@@ -30,7 +30,7 @@ If omitting altogether, increase the water to 63% and flour to 100%. Brush the f
 * 85% all purpose flour
 * 2% salt
 * Poolish
-* 2% diastatic malt powder (optional)
+* 1% diastatic malt powder (optional)
 
 Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. It should be somewhat developed but definitely not a full bread strength. Round the dough into a ball and put into a lightly olive oiled bowl and let rise for 45 minutes (maybe 30 in the summer). Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
 
@@ -80,7 +80,7 @@ Crush with a potato masher until well broken down or blitz a few times in the ca
 
 * Salt to taste
 
-Makes a little more than you need for two 12 inch pizzas if using a lot of sauce.
+Makes a little more than you need for two 12 inch pizzas if using a lot of sauce. Realistically makes enough for 4 pizzas with a moderate amount of sauce.
 
 ### Sweeter Red Sauce
 * 1 can (150g) tomato paste
