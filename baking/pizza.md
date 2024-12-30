@@ -31,20 +31,22 @@ If omitting altogether, increase the water to 63% and flour to 100%. Brush the f
 * 2% salt
 * Poolish
 
-Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. It should be somewhat developed but definitely not a full bread strength. Round the dough into a ball and put into a lightly olive oiled bowl and let rise for 45 minutes (maybe 30 in the summer). Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
+Mix in a bowl until fully combined. Turn out onto a surface and knead for about 1.5 minutes. It should be somewhat developed but definitely not a full bread strength. Round the dough into a ball and put into a lightly olive oiled bowl and let ferment for 30-45 minutes until risen 50%. Divide the dough and shape into tight balls. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
 
 #### Sourdough Dough
+* 12% ripe sourdough starter
+* 66% water
+* 3% sugar
+* 3% olive oil
 * 88% all purpose flour
 * 6% whole wheat flour
 * 2% salt
-* 66% water
-* 13% ripe sourdough starter
 
-Combine and knead until fairly well developed. Cover in a bowl and bulk ferment for 2.5 hours at 78F. Perform 3 sets of 4 stretch-and-folds spaced 30 minutes apart. Shape into a tight ball and put into a olive oil greased bowl in the fridge overnight. The next morning, divide the dough and shape into tight balls. Placed on an oiled sheet tray and ferment at room temp for 5 hours. Place in the fridge until ready to bake.
+Combine and knead until fairly well developed. Perform 3 sets of 4 stretch-and-folds spaced 30 minutes apart. Let bulk ferment until risen 50%. Divide the dough and shape into tight balls without deflating. Place on an oiled sheet tray and cover with plastic wrap. Place in the fridge for 24-48 hours.
 
 ### Shaping the Dough
 
-Let the dough come up to room temperature while the oven preheats or a little longer. 
+Let the dough come up to room temperature for 90 minutes. (For sourdough, let it come up to room temperature for 3 hours.)
 
 Flour the work surface and top of the dough. Press the dough out with your finger into an 8 inch round, leaving a one inch crust. Pop any large bubbles that form. Place your right hand into the one o'clock position and stretch the dough out with your left hand. Drape the dough over your right wrist and place it back down rotated 2-3 hours. Repeat until you have a 10 inch round. Place on a floured pizza peel. 
 
@@ -161,16 +163,16 @@ After baking top with:
 * Lots of thinly sliced basil
 * Drizzle of honey
 
-### Goat and Fig White Pizza
+### Goat White Pizza (WIP)
 * 120g full fat mozzarella
 * Crumbled goat cheese
 * A few chunks of fresh mozzarella
-* Roughly chopped dried figs
-* Pickled golden raisins?
+* Try pickled golden raisins?
 
 After baking top with:
-* Thinly sliced basil
-* Drizzle of balsamic glaze or 25 star balsamic
+* Arugula 
+* Squeeze of lemon?
+* Drizzle of balsamic glaze or 25 star balsamic?
 
 ## References
 * [Brian Lagerstrom New York Style Pizza](https://www.youtube.com/watch?v=t4t3bqb_91E)

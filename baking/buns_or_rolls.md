@@ -122,6 +122,7 @@ Use 40g flour per pie.
 * 1T butter
 * 1 yellow onion
 * 1lb ground beef
+* 1 teaspoon caraway seeds (optional)
 * 1 cup cooked rice
 
 Cook the onion and beef until browned. Season to taste with salt. Mix in the rice.
