@@ -114,11 +114,14 @@ _Not sure whether to include milk in this or not, water could be used instead._
 
 [Original recipe on King Arthur](https://www.kingarthurbaking.com/recipes/hawaiian-buns-recipe)
 
-### Lihapiirakka (WIP)
+### Lihapiirakka
 
 Use 40g flour per pie.
 
 #### Filling
+
+Makes enough for 12 pies?
+
 * 1T butter
 * 1 yellow onion
 * 1lb ground beef
