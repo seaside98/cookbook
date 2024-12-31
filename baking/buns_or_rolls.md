@@ -116,19 +116,19 @@ _Not sure whether to include milk in this or not, water could be used instead._
 
 ### Lihapiirakka
 
-Use 40g flour per pie.
+Use 25g flour per small pie.
 
 #### Filling
 
-Makes enough for 12 pies?
+Makes enough for 24 small pies.
 
 * 1T butter
 * 1 yellow onion
 * 1lb ground beef
-* 1 teaspoon caraway seeds (optional)
+* 1T+ better than bouillon beef to season
 * 1 cup cooked rice
 
-Cook the onion and beef until browned. Season to taste with salt. Mix in the rice.
+Cook the onion and beef until browned. Season to taste with bouillon and salt. Mix in the rice.
 
 #### Pies
 Roll each piece of dough into a flat circle. Fill with the filling and use water to seal edge. Crimp with a fork. After second proof, heat oil to 350 and fry until golden brown on each side.
